@@ -1,0 +1,78 @@
+\t (00:00:03) allegro 17.2 S053 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Nov 25 20:39:39 2019
+\t (00:00:03)         Host=DESKTOP-G1JLOI9 User=hagzg Pid=4372 CPUs=12
+\t (00:00:03) CmdLine= d:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe D:\allegro_path\testpoint_m1.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged testpoint_m1
+\d (00:00:03) Design opened: D:/allegro_path/testpoint_m1.dra
+\i (00:00:03) trapsize 54
+\i (00:00:03) trapsize 56
+\i (00:00:03) trapsize 54
+\i (00:00:03) trapsize 56
+\i (00:00:03) trapsize 56
+\i (00:00:03) generaledit 
+\i (00:00:04) pick grid 1.554 -2.157
+\t (00:00:04) last pick:  2.540 -2.540
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 1.609 1.311
+\i (00:00:04) trapsize 28
+\i (00:00:06) drag_start grid 0.623 0.609
+\i (00:00:06) move 
+\t (00:00:06) last pick:  0.000 0.000
+\t (00:00:06) Pick new location for the element(s).
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 0.606 1.094
+\i (00:00:07) trapsize 56
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -0.275 0.497
+\i (00:00:07) trapsize 56
+\i (00:00:08) drag_stop grid -0.086 0.519
+\i (00:00:09) generaledit 
+\i (00:00:11) define grid 
+\t (00:00:11) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:13) setwindow form.grid
+\i (00:00:13) FORM grid non_etch non_etch_x_grids .1 
+\i (00:00:13) FORM grid non_etch non_etch_y_grids .1 
+\i (00:00:14) FORM grid all_etch all_etch_x_grids .1 
+\i (00:00:15) FORM grid all_etch all_etch_y_grids .1 
+\i (00:00:15) FORM grid done  
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -2.305 3.028
+\i (00:00:15) trapsize 28
+\i (00:00:17) drag_start grid -0.314 0.775
+\i (00:00:17) move 
+\t (00:00:17) last pick:  0.000 0.000
+\t (00:00:17) Pick new location for the element(s).
+\i (00:00:19) drag_stop grid -0.113 0.920
+\i (00:00:19) generaledit 
+\i (00:00:19) pick grid 1.337 2.220
+\t (00:00:19) last pick:  1.300 2.200
+\i (00:00:20) drag_start grid 1.560 0.619
+\i (00:00:20) move 
+\t (00:00:20) last pick:  0.840 0.000
+\t (00:00:20) Pick new location for the element(s).
+\i (00:00:23) drag_stop grid -1.000 0.898
+\i (00:00:23) generaledit 
+\i (00:00:23) pick grid -1.607 1.701
+\t (00:00:23) last pick:  -1.600 1.700
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out -2.009 1.712
+\i (00:00:24) trapsize 56
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -0.364 1.801
+\i (00:00:24) trapsize 28
+\i (00:00:25) save 
+\i (00:00:26) fillin yes 
+\t (00:00:27) Symbol 'testpoint_m1.psm' created.
+\i (00:00:27) generaledit 
+\i (00:00:28) exit 
+\t (00:00:28)     Journal end - Mon Nov 25 20:40:04 2019

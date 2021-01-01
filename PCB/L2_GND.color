@@ -1,0 +1,13 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "DRC ERROR CLASS/GND1"
+color -vis "ETCH/GND1"
+color -vis "PIN/GND1"
+color -vis "VIA CLASS/GND1"
+color -vis "ANTI ETCH/GND1"
+color -vis "BOUNDARY/GND1"
+color -vis "PLAN/GND1"
+color -vis "CAVITY/GND1"

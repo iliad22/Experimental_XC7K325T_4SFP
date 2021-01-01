@@ -1,0 +1,48 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : pa0512.dra                                    )
+(    Software Version : 17.2S053                                      )
+(    Date/Time        : Thu Nov 07 13:12:23 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Nov 07 13:12:23 2019				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/allegro_path/pa0512.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           D:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           D:/allegro_path/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           D:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           D:/allegro_path/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'PA0512_PIN'  pad stack refresh starting.
+
+     'PA0512_PIN'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

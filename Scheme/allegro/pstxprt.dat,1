@@ -1,0 +1,4550 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Nov-21-2019 at 11:58:07 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='325T_MINIUM_SYSTEM';
+ POST_TIME='Mar 18 2019 03:21:05';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_NP_C0805_10UF':
+ ROOM='POWER_IN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1228@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1228@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins1228@util.\cap_np.normal\(chips)',
+ ROOM='POWER_IN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_NP_C0805_15UF_12V':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893638@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893638@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893638@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C100 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15690@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15690@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15690@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C101 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15716@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15716@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15716@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C102 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15742@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15742@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15742@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C103 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15768@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15768@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15768@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C104 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16391@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16391@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16391@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C105 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16594@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16594@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16594@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C106 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16620@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16620@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16620@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C107 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16646@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16646@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16646@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C108 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16672@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16672@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16672@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C109 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16698@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16698@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16698@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_NP_C1206_100UF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893682@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893682@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893682@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C110 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16724@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16724@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16724@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16750@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16750@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16750@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C112 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16776@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16776@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16776@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS16802@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins16802@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins16802@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C114 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS17620@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins17620@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins17620@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C115 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS17647@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins17647@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins17647@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C116 'CAP_NP_C0603_1UF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS17663@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins17663@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins17663@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C117 'CAP_NP_C0603_1UF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS17679@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins17679@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins17679@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C118 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS18180@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins18180@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins18180@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C119 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS18216@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins18216@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins18216@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_NP_C1206_100UF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893698@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893698@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893698@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C120 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS18232@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins18232@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins18232@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C121 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS18248@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins18248@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins18248@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C122 'CAP_NP_CC0402_22NF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS19470@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins19470@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins19470@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C123 'CAP_NP_CC0402_22NF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS19486@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins19486@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins19486@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C124 'CAP_NP_CC0402_22NF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS19502@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins19502@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins19502@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C125 'CAP_NP_CC0402_22NF':
+ ROOM='FPGA_GTX_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS19528@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins19528@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins19528@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C126 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS22115@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins22115@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins22115@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C127 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS22186@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins22186@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins22186@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C128 'CAP_NP_C0603_1UF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28233@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28233@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28233@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C129 'CAP_NP_C0603_1UF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28249@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28249@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28249@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_NP_C1206_100UF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893714@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893714@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893714@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C130 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28274@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28274@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28274@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C131 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28300@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28300@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28300@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C132 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28326@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28326@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28326@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C133 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28352@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28352@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28352@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C134 'CAP_NP_CC0402_22NF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28378@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28378@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28378@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C135 'CAP_NP_CC0402_22NF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28414@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28414@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28414@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C136 'CAP_NP_CC0402_22NF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28440@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28440@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28440@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C137 'CAP_NP_CC0402_22NF':
+ ROOM='FPGA_1V2_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS28466@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins28466@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins28466@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V2_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C138 'CAP_NP_C0805_47UF':
+ ROOM='FPGA_1V8_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS29057@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins29057@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins29057@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V8_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C139 'CAP_NP_C0805_47UF':
+ ROOM='FPGA_1V8_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS29115@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins29115@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins29115@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V8_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_NP_C0805_22UF':
+ ROOM='1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS925666@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins925666@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins925666@util.\cap_np.normal\(chips)',
+ ROOM='1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C140 'CAP_NP_C0805_47UF':
+ ROOM='FPGA_1V8_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS29141@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins29141@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins29141@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V8_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C141 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V8_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS29167@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins29167@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins29167@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V8_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C142 'CAP_NP_C0805_47UF':
+ ROOM='FPGA_1V8_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS29728@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins29728@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins29728@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V8_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C143 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V8_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS29767@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins29767@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins29767@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V8_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C144 'CAP_NP_CC0402_100NF':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS979498@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins979498@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins979498@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C145 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS979514@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins979514@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins979514@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C146 'CAP_NP_C0402_100NF':
+ ROOM='QSPI_FLASH';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492662@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492662@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492662@util.\cap_np.normal\(chips)',
+ ROOM='QSPI_FLASH',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C147 'CAP_NP_C0805_47UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS96496@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins96496@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins96496@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C148 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS607903@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins607903@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins607903@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C149 'CAP_NP_C0402_100NF':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492244@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492244@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492244@util.\cap_np.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP_NP_C0402_100NF':
+ ROOM='1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS925682@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins925682@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins925682@util.\cap_np.normal\(chips)',
+ ROOM='1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C150 'CAP_NP_C0402_100NF':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492260@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492260@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492260@util.\cap_np.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C151 'CAP_NP_C0603_4.7UF':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492276@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492276@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492276@util.\cap_np.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C152 'CAP_NP_C0402_100NF':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492416@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492416@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492416@util.\cap_np.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C153 'CAP_NP_C0402_100NF':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492300@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492300@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492300@util.\cap_np.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C154 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS432994@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins432994@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins432994@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C155 'CAP_NP_C0603_1UF':
+ ROOM='UART';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS720021@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins720021@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins720021@util.\cap_np.normal\(chips)',
+ ROOM='UART',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C156 'CAP_NP_C0805_10UF':
+ ROOM='UART';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS720037@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins720037@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins720037@util.\cap_np.normal\(chips)',
+ ROOM='UART',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C157 'CAP_NP_C0805_22UF':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085715@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085715@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085715@util.\cap_np.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C158 'CAP_NP_C0402_100NF':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085731@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085731@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085731@util.\cap_np.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C159 'CAP_NP_C0805_10UF':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085791@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085791@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085791@util.\cap_np.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_NP_C1206_100UF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893730@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893730@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893730@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C160 'CAP_NP_C0402_100NF':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085807@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085807@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085807@util.\cap_np.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C161 'CAP_NP_C0805_10UF':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085823@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085823@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085823@util.\cap_np.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C162 'CAP_NP_C0402_100NF':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085839@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085839@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085839@util.\cap_np.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C163 'CAP_NP_C0402_100NF':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS936500@DISCRETE.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins936500@discrete.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins936500@discrete.\cap_np.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C164 'CAP_NP_C0402_100NF':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS936516@DISCRETE.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins936516@discrete.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins936516@discrete.\cap_np.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C165 'CAP_NP_C0603_4.7UF':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS936532@DISCRETE.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins936532@discrete.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins936532@discrete.\cap_np.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C166 'CAP_NP_C0805_22UF':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086295@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086295@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086295@util.\cap_np.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C167 'CAP_NP_C0402_100NF':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086311@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086311@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086311@util.\cap_np.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C168 'CAP_NP_C0805_10UF':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086371@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086371@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086371@util.\cap_np.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C169 'CAP_NP_C0402_100NF':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086387@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086387@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086387@util.\cap_np.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_NP_C1206_100UF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893746@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893746@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893746@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C170 'CAP_NP_C0805_10UF':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086403@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086403@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086403@util.\cap_np.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C171 'CAP_NP_C0402_100NF':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086419@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086419@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086419@util.\cap_np.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C172 'CAP_NP_C0402_100NF':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS954645@DISCRETE.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins954645@discrete.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins954645@discrete.\cap_np.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C173 'CAP_NP_C0402_100NF':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS954695@DISCRETE.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins954695@discrete.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins954695@discrete.\cap_np.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C174 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V8_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1034737@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1034737@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins1034737@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V8_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C175 'CAP_NP_C0805_22UF':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088139@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088139@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088139@util.\cap_np.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C176 'CAP_NP_C0402_100NF':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088155@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088155@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088155@util.\cap_np.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C177 'CAP_NP_C0805_10UF':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088215@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088215@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088215@util.\cap_np.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C178 'CAP_NP_C0402_100NF':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088231@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088231@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088231@util.\cap_np.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C179 'CAP_NP_C0805_10UF':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088247@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088247@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088247@util.\cap_np.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_NP_C1206_100UF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893762@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893762@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893762@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C180 'CAP_NP_C0402_100NF':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088263@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088263@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088263@util.\cap_np.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C181 'CAP_NP_C0805_22UF':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088719@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088719@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088719@util.\cap_np.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C182 'CAP_NP_C0402_100NF':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088735@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088735@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088735@util.\cap_np.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C183 'CAP_NP_C0805_10UF':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088795@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088795@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088795@util.\cap_np.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C184 'CAP_NP_C0402_100NF':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088811@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088811@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088811@util.\cap_np.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C185 'CAP_NP_C0805_10UF':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088827@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088827@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088827@util.\cap_np.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C186 'CAP_NP_C0402_100NF':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088843@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088843@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088843@util.\cap_np.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_NP_C0805_10UF':
+ ROOM='1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS925726@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins925726@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins925726@util.\cap_np.normal\(chips)',
+ ROOM='1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_NP_C0805_100NF':
+ ROOM='POWER_IN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1212@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1212@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins1212@util.\cap_np.normal\(chips)',
+ ROOM='POWER_IN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_NP_C0402_3.3NF':
+ ROOM='1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS925742@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins925742@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins925742@util.\cap_np.normal\(chips)',
+ ROOM='1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_NP_C1206_330NF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893794@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893794@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893794@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_NP_C0402_100NF':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS911960@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins911960@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins911960@util.\cap_np.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_NP_C0402_100NF':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923391@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923391@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923391@util.\cap_np.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_NP_C0805_10UF_12V':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912052@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912052@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912052@util.\cap_np.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP_NP_C0603_4.7UF_12V':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912068@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912068@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912068@util.\cap_np.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_NP_C0805_47UF':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912140@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912140@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912140@util.\cap_np.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP_NP_C0402_100NF':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912156@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912156@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912156@util.\cap_np.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP_NP_C0805_10UF_12V':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923531@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923531@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923531@util.\cap_np.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP_NP_C0603_4.7UF_12V':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923547@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923547@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923547@util.\cap_np.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_NP_C1206_100UF':
+ ROOM='FAN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS830634@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins830634@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins830634@util.\cap_np.normal\(chips)',
+ ROOM='FAN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP_NP_C0805_47UF':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923571@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923571@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923571@util.\cap_np.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP_NP_C0402_100NF':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923587@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923587@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923587@util.\cap_np.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP_NP_C0402_10NF':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912252@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912252@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912252@util.\cap_np.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_NP_C0402_8.2NF':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912268@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912268@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912268@util.\cap_np.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP_NP_C0402_8.2NF':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923707@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923707@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923707@util.\cap_np.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_NP_C0402_10NF':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923691@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923691@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923691@util.\cap_np.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP_NP_C0402_100NF':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS931941@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins931941@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins931941@util.\cap_np.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_NP_C0805_22UF':
+ ROOM='VADJ';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS924626@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins924626@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins924626@util.\cap_np.normal\(chips)',
+ ROOM='VADJ',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP_NP_C0402_100NF':
+ ROOM='VADJ';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS924642@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins924642@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins924642@util.\cap_np.normal\(chips)',
+ ROOM='VADJ',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP_NP_C0805_10UF_12V':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932045@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932045@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932045@util.\cap_np.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_NP_C0805_4.7UF_12V':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893020@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893020@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893020@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_NP_C0603_4.7UF_12V':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932061@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932061@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932061@util.\cap_np.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP_NP_C0805_47UF':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932133@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932133@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932133@util.\cap_np.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP_NP_C0402_100NF':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932149@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932149@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932149@util.\cap_np.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP_NP_C0805_10UF':
+ ROOM='VADJ';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS924682@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins924682@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins924682@util.\cap_np.normal\(chips)',
+ ROOM='VADJ',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP_NP_C0402_3.3NF':
+ ROOM='VADJ';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS924698@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins924698@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins924698@util.\cap_np.normal\(chips)',
+ ROOM='VADJ',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP_NP_C0402_10NF':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932245@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932245@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932245@util.\cap_np.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP_NP_C0402_8.2NF':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932261@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932261@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932261@util.\cap_np.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP_NP_C0805_10UF':
+ ROOM='MGTVCCAUX_1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS927298@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins927298@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins927298@util.\cap_np.normal\(chips)',
+ ROOM='MGTVCCAUX_1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_NP_C0805_100NF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893114@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893114@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893114@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_NP_C0402_100NF':
+ ROOM='MGTVCCAUX_1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS927314@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins927314@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins927314@util.\cap_np.normal\(chips)',
+ ROOM='MGTVCCAUX_1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP_NP_C0805_10UF':
+ ROOM='MGTVCCAUX_1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS927330@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins927330@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins927330@util.\cap_np.normal\(chips)',
+ ROOM='MGTVCCAUX_1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP_NP_C0402_100NF':
+ ROOM='MGTVCCAUX_1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS927346@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins927346@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins927346@util.\cap_np.normal\(chips)',
+ ROOM='MGTVCCAUX_1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_NP_C0402_1NF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893130@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893130@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893130@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP_NP_C0603_2.2UF':
+ ROOM='MGTAVTT_1.2V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS929676@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins929676@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins929676@util.\cap_np.normal\(chips)',
+ ROOM='MGTAVTT_1.2V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP_NP_C0402_100NF':
+ ROOM='MGTAVTT_1.2V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS929772@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins929772@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins929772@util.\cap_np.normal\(chips)',
+ ROOM='MGTAVTT_1.2V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C62 'CAP_NP_C0805_22UF':
+ ROOM='MGTAVTT_1.2V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS929788@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins929788@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins929788@util.\cap_np.normal\(chips)',
+ ROOM='MGTAVTT_1.2V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C63 'CAP_NP_C0603_2.2UF':
+ ROOM='MGTAVTT_1.2V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS929864@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins929864@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins929864@util.\cap_np.normal\(chips)',
+ ROOM='MGTAVTT_1.2V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'CAP_NP_C0402_1NF':
+ ROOM='MGTAVTT_1.2V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS929916@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins929916@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins929916@util.\cap_np.normal\(chips)',
+ ROOM='MGTAVTT_1.2V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C69 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS622606@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins622606@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins622606@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_NP_C0805_6.8NF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893454@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893454@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893454@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS623173@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins623173@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins623173@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS622788@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins622788@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins622788@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS623686@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins623686@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins623686@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS625252@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins625252@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins625252@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS624927@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins624927@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins624927@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS624624@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins624624@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins624624@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_IO_POWER_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS623946@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins623946@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins623946@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_IO_POWER_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS9693@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins9693@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins9693@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS9760@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins9760@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins9760@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS9776@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins9776@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins9776@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_NP_C0805_1NF':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893502@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893502@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893502@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS20838@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins20838@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins20838@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS20854@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins20854@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins20854@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS20870@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins20870@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins20870@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS20886@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins20886@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins20886@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS20902@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins20902@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins20902@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS20918@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins20918@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins20918@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS20934@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins20934@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins20934@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS20950@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins20950@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins20950@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS20966@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins20966@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins20966@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP_NP_C0603_4.7UF':
+ ROOM='FPGA_GTX_AUX_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS14862@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins14862@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins14862@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_AUX_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_NP_C0805_15UF_12V':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893622@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893622@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893622@util.\cap_np.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP_NP_C0603_1UF':
+ ROOM='FPGA_GTX_AUX_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS14880@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins14880@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins14880@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_AUX_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'CAP_NP_CC0402_470NF':
+ ROOM='FPGA_GTX_AUX_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS14896@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins14896@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins14896@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_AUX_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'CAP_NP_CC0402_22NF':
+ ROOM='FPGA_GTX_AUX_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS14921@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins14921@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins14921@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_GTX_AUX_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C93 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15382@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15382@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15382@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15534@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15534@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15534@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C95 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15560@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15560@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15560@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15586@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15586@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15586@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C97 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15612@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15612@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15612@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C98 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15638@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15638@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15638@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C99 'CAP_NP_C1206_100UF':
+ ROOM='FPGA_1V0_PURIFIER';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS15664@UTIL.CAP_NP.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins15664@util.\cap_np.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins15664@util.\cap_np.normal\(chips)',
+ ROOM='FPGA_1V0_PURIFIER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CON1 'SODIMM_CONN_DDR3_SO-DIMM_SHIELD':;
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1093696@SCH.SODIMM_CONN.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1093696@sch.\sodimm_conn.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins1093696@sch.\sodimm_conn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'BZX84C33/SOT_B340_B340A':
+ ROOM='POWER_IN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS921@UTIL.BZX84C33/SOT.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins921@util.\bzx84c33/sot.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins921@util.\bzx84c33/sot.normal\(chips)',
+ ROOM='POWER_IN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'LED_LED_0805_LED':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS982569@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins982569@discrete.\led.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins982569@discrete.\led.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'LED_LED_0805_LED':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700697@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700697@discrete.\led.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700697@discrete.\led.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LED_LED_0805_LED':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700876@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700876@discrete.\led.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700876@discrete.\led.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'LED_LED_0805_LED':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS701061@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins701061@discrete.\led.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins701061@discrete.\led.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'LED_LED_0805_LED':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS701294@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins701294@discrete.\led.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins701294@discrete.\led.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'BZX84C33/SOT_B340_B340A':
+ ROOM='POWER_IN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS851710@UTIL.BZX84C33/SOT.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins851710@util.\bzx84c33/sot.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins851710@util.\bzx84c33/sot.normal\(chips)',
+ ROOM='POWER_IN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'BZX84C33/SOT_B340_B340A':
+ ROOM='FAN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS747464@UTIL.BZX84C33/SOT.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins747464@util.\bzx84c33/sot.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins747464@util.\bzx84c33/sot.normal\(chips)',
+ ROOM='FAN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'BAT54S_SOT-23_BAT54S':
+ ROOM='JTAG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS430073@UTIL.BAT54S.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins430073@util.\bat54s.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins430073@util.\bat54s.normal\(chips)',
+ ROOM='JTAG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'BAT54S_SOT-23_BAT54S':
+ ROOM='JTAG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS430091@UTIL.BAT54S.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins430091@util.\bat54s.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins430091@util.\bat54s.normal\(chips)',
+ ROOM='JTAG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'BAT54S_SOT-23_BAT54S':
+ ROOM='JTAG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS430109@UTIL.BAT54S.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins430109@util.\bat54s.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins430109@util.\bat54s.normal\(chips)',
+ ROOM='JTAG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'BAT54S_SOT-23_BAT54S':
+ ROOM='JTAG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS430127@UTIL.BAT54S.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins430127@util.\bat54s.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins430127@util.\bat54s.normal\(chips)',
+ ROOM='JTAG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_LED_0805_LED':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS670184@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins670184@discrete.\led.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins670184@discrete.\led.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'LED_LED_0805_LED':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS670168@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins670168@discrete.\led.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins670168@discrete.\led.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_FUSE_1812_FUSE_1812':
+ ROOM='POWER_IN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1145@DISCRETE.FUSE.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1145@discrete.\fuse.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins1145@discrete.\fuse.normal\(chips)',
+ ROOM='POWER_IN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ G1 'OSC_7050_NC_OSC6-5X7_OSC_7050':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS524351@UTIL.OSC_7050_NC.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins524351@util.\osc_7050_nc.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins524351@util.\osc_7050_nc.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ G2 'OSC_7050_NC_OSC6-5X7_OSC_7050':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS936564@SCH.OSC_7050_NC.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins936564@sch.\osc_7050_nc.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins936564@sch.\osc_7050_nc.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 20X2/M_IDC-40J_HEADER 20':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS618742@UTIL.HEADER 20X2/M.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins618742@util.\header 20x2/m.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins618742@util.\header 20x2/m.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'USB_B_3_MINIUSBB_USB_B_3':
+ ROOM='UART';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS720089@SCH.USB_B_3.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins720089@sch.\usb_b_3.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins720089@sch.\usb_b_3.normal\(chips)',
+ ROOM='UART',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'SFP_CON_SFP_SHIELD_SFP & CONN':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085511@SCH.SFP_CON.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085511@sch.\sfp_con.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085511@sch.\sfp_con.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'SFP_CON_SFP_SHIELD_SFP & CONN':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086091@SCH.SFP_CON.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086091@sch.\sfp_con.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086091@sch.\sfp_con.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'SFP_CON_SFP_SHIELD_SFP & CONN':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1087935@SCH.SFP_CON.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1087935@sch.\sfp_con.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1087935@sch.\sfp_con.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'SFP_CON_SFP_SHIELD_SFP & CONN':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088515@SCH.SFP_CON.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088515@sch.\sfp_con.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088515@sch.\sfp_con.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_PA0512_PA0512_101NLT_1':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893262@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893262@discrete.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893262@discrete.\inductor.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L10 'INDUCTOR_L0805_220OHM@100MHZ':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085667@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085667@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085667@util.\inductor.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L11 'INDUCTOR_L0805_220OHM@100MHZ':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085747@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085747@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085747@util.\inductor.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L12 'INDUCTOR_L0603_120R@100MHZ':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS936420@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins936420@discrete.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins936420@discrete.\inductor.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L13 'INDUCTOR_L0805_220OHM@100MHZ':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086247@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086247@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086247@util.\inductor.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L14 'INDUCTOR_L0805_220OHM@100MHZ':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086327@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086327@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086327@util.\inductor.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L15 'INDUCTOR_L0805_220OHM@100MHZ':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088091@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088091@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088091@util.\inductor.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L16 'INDUCTOR_L0805_220OHM@100MHZ':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088171@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088171@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088171@util.\inductor.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L17 'INDUCTOR_L0805_220OHM@100MHZ':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088671@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088671@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088671@util.\inductor.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L18 'INDUCTOR_L0805_220OHM@100MHZ':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088751@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088751@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088751@util.\inductor.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_WRH105R_2.2UH 5A':
+ ROOM='1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS925518@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins925518@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins925518@util.\inductor.normal\(chips)',
+ ROOM='1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_WRH105R_2.2UH 5A':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS911984@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins911984@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins911984@util.\inductor.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_WRH105R_2.2UH 5A':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923415@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923415@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923415@util.\inductor.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_WRH105R_2.2UH 5A':
+ ROOM='VADJ';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS924494@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins924494@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins924494@util.\inductor.normal\(chips)',
+ ROOM='VADJ',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_WRH105R_2.2UH 5A':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS931965@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins931965@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins931965@util.\inductor.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'INDUCTOR_L0603_120OHM@100MHZ':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS979597@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins979597@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins979597@util.\inductor.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'INDUCTOR_L0603_120OHM@100MHZ':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS979891@UTIL.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins979891@util.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins979891@util.\inductor.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'INDUCTOR_L0603_120R@100MHZ':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492164@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492164@discrete.\inductor.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492164@discrete.\inductor.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NDT3055L_SOT-223_NDT3055L':
+ ROOM='FAN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS747434@SCH.NDT3055L.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins747434@sch.\ndt3055l.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins747434@sch.\ndt3055l.normal\(chips)',
+ ROOM='FAN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MMBT3904L_SOT-23_MMBT3904L':
+ ROOM='FAN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS747403@TRANSISTOR.MMBT3904L.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins747403@transistor.\mmbt3904l.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins747403@transistor.\mmbt3904l.normal\(chips)',
+ ROOM='FAN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MMBT3904L_SOT-23_MMBT3904L':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700642@TRANSISTOR.MMBT3904L.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700642@transistor.\mmbt3904l.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700642@transistor.\mmbt3904l.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MMBT3904L_SOT-23_MMBT3904L':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700924@TRANSISTOR.MMBT3904L.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700924@transistor.\mmbt3904l.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700924@transistor.\mmbt3904l.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'MMBT3904L_SOT-23_MMBT3904L':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS701109@TRANSISTOR.MMBT3904L.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins701109@transistor.\mmbt3904l.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins701109@transistor.\mmbt3904l.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'MMBT3904L_SOT-23_MMBT3904L':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS701342@TRANSISTOR.MMBT3904L.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins701342@transistor.\mmbt3904l.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins701342@transistor.\mmbt3904l.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_R1206_10R':
+ ROOM='FAN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS821459@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins821459@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins821459@util.\r.normal\(chips)',
+ ROOM='FAN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_R0402_105K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893486@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893486@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893486@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R100 'R_R0402_4.7K':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086059@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086059@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086059@util.\r.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'R_R0402_4.7K':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086075@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086075@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086075@util.\r.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R102 'R_R0402_NC':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086187@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086187@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086187@util.\r.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R103 'R_R0402_4.7K':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS936484@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins936484@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins936484@util.\r.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'R_R0402_4.7K':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086487@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086487@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086487@util.\r.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'R_R0402_240R 1%':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS955715@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins955715@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins955715@util.\r.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 'R_R0402_240R 1%':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS956572@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins956572@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins956572@util.\r.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R107 'R_R0402_4.7K':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1087855@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1087855@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1087855@util.\r.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 'R_R0402_4.7K':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1087871@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1087871@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1087871@util.\r.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R109 'R_R0402_4.7K':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1087887@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1087887@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1087887@util.\r.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_R0402_39.2K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893570@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893570@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893570@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R110 'R_R0402_4.7K':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1087903@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1087903@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1087903@util.\r.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R111 'R_R0402_4.7K':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1087919@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1087919@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1087919@util.\r.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R112 'R_R0402_NC':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088031@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088031@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088031@util.\r.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'R_R0402_4.7K':
+ ROOM='SFP3';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088331@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088331@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088331@util.\r.normal\(chips)',
+ ROOM='SFP3',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R114 'R_R0402_4.7K':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088435@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088435@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088435@util.\r.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R115 'R_R0402_4.7K':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088451@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088451@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088451@util.\r.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R116 'R_R0402_4.7K':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088467@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088467@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088467@util.\r.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R117 'R_R0402_4.7K':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088483@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088483@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088483@util.\r.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R118 'R_R0402_4.7K':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088499@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088499@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088499@util.\r.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R119 'R_R0402_NC':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088611@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088611@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088611@util.\r.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_R0402_1K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893598@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893598@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893598@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R120 'R_R0402_4.7K':
+ ROOM='SFP4';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1088911@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1088911@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1088911@util.\r.normal\(chips)',
+ ROOM='SFP4',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_R0402_10K':
+ ROOM='1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS925610@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins925610@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins925610@util.\r.normal\(chips)',
+ ROOM='1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_R0402_124K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893658@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893658@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893658@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_R0402_18.7K 1%':
+ ROOM='1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS925626@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins925626@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins925626@util.\r.normal\(chips)',
+ ROOM='1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_R0402_105K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893778@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893778@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893778@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_R0402_187K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893814@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893814@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893814@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_R0402_10K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893830@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893830@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893830@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_R0402_15K 1%':
+ ROOM='1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS925794@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins925794@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins925794@util.\r.normal\(chips)',
+ ROOM='1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_R0402_1K':
+ ROOM='FAN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS820961@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins820961@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins820961@util.\r.normal\(chips)',
+ ROOM='FAN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_R0402_10K':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS911818@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins911818@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins911818@util.\r.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_R0402_10K':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923249@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923249@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923249@util.\r.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_R0402_35.7K 1%':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS911940@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins911940@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins911940@util.\r.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_R0402_NC':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923371@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923371@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923371@util.\r.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_R0402_56K 1%':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912036@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912036@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912036@util.\r.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_R0402_31.6K 1%':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923479@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923479@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923479@util.\r.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_R0402_8.06K 1%':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912084@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912084@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912084@util.\r.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_R0402_NC':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923495@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923495@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923495@util.\r.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_R0402_10K 1%':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912172@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912172@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912172@util.\r.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_R0402_1.69K':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923631@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923631@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923631@util.\r.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_R0402_1K':
+ ROOM='FAN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS747491@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins747491@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins747491@util.\r.normal\(chips)',
+ ROOM='FAN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_R0402_10K 1%':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923603@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923603@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923603@util.\r.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_R0402_1.69K':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912200@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912200@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912200@util.\r.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_R0402_80.6K':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS912232@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins912232@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins912232@util.\r.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_R0402_80.6K':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923675@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923675@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923675@util.\r.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_R0402_10K':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS931799@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins931799@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins931799@util.\r.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_R0402_NC':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS931921@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins931921@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins931921@util.\r.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_R0402_130K 1%':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932029@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932029@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932029@util.\r.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_R0402_10K':
+ ROOM='VADJ';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS924586@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins924586@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins924586@util.\r.normal\(chips)',
+ ROOM='VADJ',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_R0402_10K 1%':
+ ROOM='VADJ';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS924602@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins924602@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins924602@util.\r.normal\(chips)',
+ ROOM='VADJ',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_R0402_NC':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932077@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932077@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932077@util.\r.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_R0402_10K':
+ ROOM='FAN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS820943@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins820943@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins820943@util.\r.normal\(chips)',
+ ROOM='FAN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_R0402_150K 1%':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932165@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932165@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932165@util.\r.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_R0402_1.69K':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932193@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932193@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932193@util.\r.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_R0402_4.7K 1%':
+ ROOM='VADJ';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS924750@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins924750@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins924750@util.\r.normal\(chips)',
+ ROOM='VADJ',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_R0402_80.6K':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS932225@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins932225@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins932225@util.\r.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'R_R0402_NC':
+ ROOM='MGTAVTT_1.2V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS929744@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins929744@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins929744@util.\r.normal\(chips)',
+ ROOM='MGTAVTT_1.2V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'R_R0402_2.49K 1%':
+ ROOM='MGTAVTT_1.2V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS929848@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins929848@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins929848@util.\r.normal\(chips)',
+ ROOM='MGTAVTT_1.2V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'R_R0402_4.99K 1%':
+ ROOM='MGTAVTT_1.2V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS929932@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins929932@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins929932@util.\r.normal\(chips)',
+ ROOM='MGTAVTT_1.2V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_R0402_2R':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893098@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893098@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893098@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'R_R0402_4.7K':
+ ROOM='QSPI_FLASH';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492456@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492456@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492456@util.\r.normal\(chips)',
+ ROOM='QSPI_FLASH',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'R_R0402_4.7K':
+ ROOM='QSPI_FLASH';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492480@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492480@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492480@util.\r.normal\(chips)',
+ ROOM='QSPI_FLASH',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'R_R0402_33R':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS672292@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins672292@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins672292@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'R_R0402_1K':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS383639@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins383639@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins383639@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'R_R0402_4.7K':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS670624@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins670624@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins670624@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'R_R0402_4.7K':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS163996@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins163996@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins163996@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'R_R0402_4.7K':
+ ROOM='QSPI_FLASH';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492634@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492634@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492634@util.\r.normal\(chips)',
+ ROOM='QSPI_FLASH',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'R_R0402_33R':
+ ROOM='JTAG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS991078@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins991078@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins991078@util.\r.normal\(chips)',
+ ROOM='JTAG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0402_3.01R':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893146@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893146@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893146@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'R_R0402_33R':
+ ROOM='JTAG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS991094@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins991094@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins991094@util.\r.normal\(chips)',
+ ROOM='JTAG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'R_R0402_33R':
+ ROOM='JTAG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS991110@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins991110@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins991110@util.\r.normal\(chips)',
+ ROOM='JTAG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'R_R0402_33R':
+ ROOM='JTAG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS991126@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins991126@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins991126@util.\r.normal\(chips)',
+ ROOM='JTAG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'R_R0402_330R':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS697268@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins697268@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins697268@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'R_R0402_330R':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS696592@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins696592@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins696592@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'R_R0402_330R':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS982553@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins982553@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins982553@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R66 'R_R0805_220R':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS670208@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins670208@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins670208@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'R_R0805_220R':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS982585@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins982585@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins982585@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R68 'R_R0805_220R':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS670224@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins670224@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins670224@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R69 'R_R0402_1K 1%':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS720758@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins720758@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins720758@util.\r.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_R0402_205K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893406@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893406@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893406@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'R_R0402_1K 1%':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS720774@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins720774@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins720774@util.\r.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R71 'R_R0402_1K':
+ ROOM='FPGA_CONFIG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS981299@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins981299@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins981299@util.\r.normal\(chips)',
+ ROOM='FPGA_CONFIG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R72 'R_R0402_100K':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS720828@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins720828@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins720828@util.\r.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R73 'R_R0402_1K 1%':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS720874@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins720874@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins720874@util.\r.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R74 'R_R0402_1K 1%':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS720890@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins720890@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins720890@util.\r.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R75 'R_R0402_4.7K':
+ ROOM='SYS_CLK';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492228@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492228@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492228@util.\r.normal\(chips)',
+ ROOM='SYS_CLK',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R76 'R_R0402_330R':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700613@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700613@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700613@util.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R77 'R_R0402_330R':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700892@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700892@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700892@util.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R78 'R_R0402_1K':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700534@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700534@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700534@util.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'R_R0402_1K':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700908@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700908@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700908@util.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0402_6.65K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893390@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893390@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893390@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'R_R0402_330R':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS701077@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins701077@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins701077@util.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'R_R0402_330R':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS701310@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins701310@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins701310@util.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R82 'R_R0402_1K':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS701093@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins701093@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins701093@util.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R83 'R_R0402_1K':
+ ROOM='LED';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS701326@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins701326@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins701326@util.\r.normal\(chips)',
+ ROOM='LED',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R84 'R_R0402_10K':
+ ROOM='BUTTON';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS699816@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins699816@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins699816@util.\r.normal\(chips)',
+ ROOM='BUTTON',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R85 'R_R0402_1K':
+ ROOM='BUTTON';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS699832@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins699832@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins699832@util.\r.normal\(chips)',
+ ROOM='BUTTON',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R86 'R_R0402_10K':
+ ROOM='BUTTON';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700127@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700127@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700127@util.\r.normal\(chips)',
+ ROOM='BUTTON',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R87 'R_R0402_1K':
+ ROOM='BUTTON';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700163@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700163@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700163@util.\r.normal\(chips)',
+ ROOM='BUTTON',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R88 'R_R0402_10K':
+ ROOM='UART';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS719909@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins719909@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins719909@util.\r.normal\(chips)',
+ ROOM='UART',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R89 'R_R0402_4.7K':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085431@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085431@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085431@util.\r.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_R0402_68.1K':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893438@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893438@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893438@util.\r.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 'R_R0402_4.7K':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085447@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085447@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085447@util.\r.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'R_R0402_4.7K':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085463@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085463@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085463@util.\r.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 'R_R0402_4.7K':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085479@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085479@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085479@util.\r.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'R_R0402_4.7K':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085495@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085495@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085495@util.\r.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'R_R0402_NC':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085607@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085607@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085607@util.\r.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 'R_R0402_4.7K':
+ ROOM='SFP1';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1085907@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1085907@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1085907@util.\r.normal\(chips)',
+ ROOM='SFP1',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 'R_CC0402_100R %1':
+ ROOM='GTX_BANK115_DEVICE';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS681372@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins681372@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins681372@util.\r.normal\(chips)',
+ ROOM='GTX_BANK115_DEVICE',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R97 'R_R0402_4.7K':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086011@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086011@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086011@util.\r.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 'R_R0402_4.7K':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086027@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086027@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086027@util.\r.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R99 'R_R0402_4.7K':
+ ROOM='SFP2';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1086043@UTIL.R.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1086043@util.\r.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page10_ins1086043@util.\r.normal\(chips)',
+ ROOM='SFP2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN1 'RESARR_IS_4/SM_RN-8P_33R':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS659637@SCH.RESARR_IS_4/SM.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins659637@sch.\resarr_is_4/sm.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins659637@sch.\resarr_is_4/sm.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN2 'RESARR_IS_4/SM_RN-8P_33R':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS659687@SCH.RESARR_IS_4/SM.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins659687@sch.\resarr_is_4/sm.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins659687@sch.\resarr_is_4/sm.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN3 'RESARR_IS_4/SM_RN-8P_33R':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS659759@SCH.RESARR_IS_4/SM.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins659759@sch.\resarr_is_4/sm.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins659759@sch.\resarr_is_4/sm.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN4 'RESARR_IS_4/SM_RN-8P_33R':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS659787@SCH.RESARR_IS_4/SM.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins659787@sch.\resarr_is_4/sm.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins659787@sch.\resarr_is_4/sm.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN5 'RESARR_IS_4/SM_RN-8P_33R':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS659944@SCH.RESARR_IS_4/SM.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins659944@sch.\resarr_is_4/sm.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins659944@sch.\resarr_is_4/sm.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN6 'RESARR_IS_4/SM_RN-8P_33R':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS659972@SCH.RESARR_IS_4/SM.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins659972@sch.\resarr_is_4/sm.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins659972@sch.\resarr_is_4/sm.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN7 'RESARR_IS_4/SM_RN-8P_33R':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS660000@SCH.RESARR_IS_4/SM.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins660000@sch.\resarr_is_4/sm.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins660000@sch.\resarr_is_4/sm.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN8 'RESARR_IS_4/SM_RN-8P_33R':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS660028@SCH.RESARR_IS_4/SM.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins660028@sch.\resarr_is_4/sm.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins660028@sch.\resarr_is_4/sm.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RN9 'RESARR_IS_4/SM_RN-8P_33R':
+ ROOM='GPIO';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS660360@SCH.RESARR_IS_4/SM.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins660360@sch.\resarr_is_4/sm.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins660360@sch.\resarr_is_4/sm.normal\(chips)',
+ ROOM='GPIO',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SENS59150-SPST_POWER_SW_POWER S':
+ ROOM='POWER_IN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS991@UTIL.SENS59150-SPST.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins991@util.\sens59150-spst.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins991@util.\sens59150-spst.normal\(chips)',
+ ROOM='POWER_IN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'BUTTON_KEY735SO_BUTTON':
+ ROOM='BUTTON';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS699420@UTIL.BUTTON.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins699420@util.\button.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins699420@util.\button.normal\(chips)',
+ ROOM='BUTTON',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'BUTTON_KEY735SO_BUTTON':
+ ROOM='BUTTON';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS700147@UTIL.BUTTON.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins700147@util.\button.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins700147@util.\button.normal\(chips)',
+ ROOM='BUTTON',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'AJ243_CN1-DCJACK_AJ243':
+ ROOM='POWER_IN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS885@UTIL.AJ243.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins885@util.\aj243.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins885@util.\aj243.normal\(chips)',
+ ROOM='POWER_IN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 '39-30-1060_2_CON_MOL_5569_6P_39':
+ ROOM='POWER_IN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS851478@SCH.39-30-1060_2.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins851478@sch.\39-30-1060_2.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins851478@sch.\39-30-1060_2.normal\(chips)',
+ ROOM='POWER_IN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'SPX3819M5-2-5_SOT-23-5_SPX3819M':
+ ROOM='MGTVCCAUX_1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS927256@SCH.SPX3819M5-2-5.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins927256@sch.\spx3819m5-2-5.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins927256@sch.\spx3819m5-2-5.normal\(chips)',
+ ROOM='MGTVCCAUX_1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'TPS74401_QFN20_QFN20_TPS74401_Q':
+ ROOM='MGTAVTT_1.2V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS929622@SCH.TPS74401_QFN20.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins929622@sch.\tps74401_qfn20.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins929622@sch.\tps74401_qfn20.normal\(chips)',
+ ROOM='MGTAVTT_1.2V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'XC7K325TFFG900_FFG900_(S1+S2+S3':
+ ROOM='FPGA';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS567321@SCH.XC7K325TFFG900-1.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins567321@sch.\xc7k325tffg900-1.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins567321@sch.\xc7k325tffg900-1.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-1';
+
+SECTION_NUMBER 10
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS605245@SCH.XC7K325TFFG900-10.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins605245@sch.\xc7k325tffg900-10.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins605245@sch.\xc7k325tffg900-10.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-10';
+
+SECTION_NUMBER 11
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS605490@SCH.XC7K325TFFG900-11.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins605490@sch.\xc7k325tffg900-11.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins605490@sch.\xc7k325tffg900-11.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-11';
+
+SECTION_NUMBER 12
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS601993@SCH.XC7K325TFFG900-12.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins601993@sch.\xc7k325tffg900-12.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins601993@sch.\xc7k325tffg900-12.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-12';
+
+SECTION_NUMBER 13
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS602094@SCH.XC7K325TFFG900-13.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins602094@sch.\xc7k325tffg900-13.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins602094@sch.\xc7k325tffg900-13.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-13';
+
+SECTION_NUMBER 14
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS602191@SCH.XC7K325TFFG900-14.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins602191@sch.\xc7k325tffg900-14.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins602191@sch.\xc7k325tffg900-14.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-14';
+
+SECTION_NUMBER 15
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS602288@SCH.XC7K325TFFG900-15.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins602288@sch.\xc7k325tffg900-15.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page9_ins602288@sch.\xc7k325tffg900-15.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-15';
+
+SECTION_NUMBER 16
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS595337@SCH.XC7K325TFFG900-16.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins595337@sch.\xc7k325tffg900-16.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins595337@sch.\xc7k325tffg900-16.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-16';
+
+SECTION_NUMBER 17
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS596173@SCH.XC7K325TFFG900-17.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins596173@sch.\xc7k325tffg900-17.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins596173@sch.\xc7k325tffg900-17.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-17';
+
+SECTION_NUMBER 18
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS596753@SCH.XC7K325TFFG900-18.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins596753@sch.\xc7k325tffg900-18.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins596753@sch.\xc7k325tffg900-18.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-18';
+
+SECTION_NUMBER 19
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS597536@SCH.XC7K325TFFG900-19.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins597536@sch.\xc7k325tffg900-19.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins597536@sch.\xc7k325tffg900-19.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-19';
+
+SECTION_NUMBER 2
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS603779@SCH.XC7K325TFFG900-2.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins603779@sch.\xc7k325tffg900-2.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins603779@sch.\xc7k325tffg900-2.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-2';
+
+SECTION_NUMBER 20
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS597957@SCH.XC7K325TFFG900-20.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins597957@sch.\xc7k325tffg900-20.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins597957@sch.\xc7k325tffg900-20.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-20';
+
+SECTION_NUMBER 21
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS598713@SCH.XC7K325TFFG900-21.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins598713@sch.\xc7k325tffg900-21.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins598713@sch.\xc7k325tffg900-21.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-21';
+
+SECTION_NUMBER 22
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS599543@SCH.XC7K325TFFG900-22.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins599543@sch.\xc7k325tffg900-22.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins599543@sch.\xc7k325tffg900-22.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-22';
+
+SECTION_NUMBER 23
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS589887@SCH.XC7K325TFFG900-23.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins589887@sch.\xc7k325tffg900-23.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page6_ins589887@sch.\xc7k325tffg900-23.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-23';
+
+SECTION_NUMBER 3
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS604022@SCH.XC7K325TFFG900-3.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins604022@sch.\xc7k325tffg900-3.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins604022@sch.\xc7k325tffg900-3.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-3';
+
+SECTION_NUMBER 4
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS603440@SCH.XC7K325TFFG900-4.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins603440@sch.\xc7k325tffg900-4.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins603440@sch.\xc7k325tffg900-4.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-4';
+
+SECTION_NUMBER 5
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS602457@SCH.XC7K325TFFG900-5.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins602457@sch.\xc7k325tffg900-5.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins602457@sch.\xc7k325tffg900-5.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-5';
+
+SECTION_NUMBER 6
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS604267@SCH.XC7K325TFFG900-6.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins604267@sch.\xc7k325tffg900-6.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins604267@sch.\xc7k325tffg900-6.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-6';
+
+SECTION_NUMBER 7
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS604514@SCH.XC7K325TFFG900-7.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins604514@sch.\xc7k325tffg900-7.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins604514@sch.\xc7k325tffg900-7.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-7';
+
+SECTION_NUMBER 8
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS604759@SCH.XC7K325TFFG900-8.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins604759@sch.\xc7k325tffg900-8.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins604759@sch.\xc7k325tffg900-8.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-8';
+
+SECTION_NUMBER 9
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS605002@SCH.XC7K325TFFG900-9.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins605002@sch.\xc7k325tffg900-9.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page5_ins605002@sch.\xc7k325tffg900-9.normal\(chips)',
+ ROOM='FPGA',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-9';
+
+PART_NAME
+ U14 'W25Q128_SOP2_8_W25Q128':
+ ROOM='QSPI_FLASH';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS492508@UTIL.W25Q128.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins492508@util.\w25q128.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins492508@util.\w25q128.normal\(chips)',
+ ROOM='QSPI_FLASH',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U15 'JTAG_JTAG-10_JTAG':
+ ROOM='JTAG';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS428434@UTIL.JTAG.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins428434@util.\jtag.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page7_ins428434@util.\jtag.normal\(chips)',
+ ROOM='JTAG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'CP2102_QFN-28_CP2102':
+ ROOM='UART';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS719925@SCH.CP2102.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins719925@sch.\cp2102.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page8_ins719925@sch.\cp2102.normal\(chips)',
+ ROOM='UART',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'SFPX4_CASE_SFPX4_CASE_SFPX4_CAS':;
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS1103235@SCH.SFPX4_CASE.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins1103235@sch.\sfpx4_case.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page4_ins1103235@sch.\sfpx4_case.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'FAN_SOCKET_CON2_2_54P_FAN_SOCKE':
+ ROOM='FAN';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS957570@UTIL.FAN_SOCKET.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins957570@util.\fan_socket.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page2_ins957570@util.\fan_socket.normal\(chips)',
+ ROOM='FAN',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'TPS53355_LSON_CLIP22_TPS53355':
+ ROOM='1.0V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS893036@UTIL.TPS53355.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins893036@util.\tps53355.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins893036@util.\tps53355.normal\(chips)',
+ ROOM='1.0V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'TLV62130RGT_5_TLV62130RGT_TLV62':
+ ROOM='1.8V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS925472@SCH.TLV62130RGT_5.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins925472@sch.\tlv62130rgt_5.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins925472@sch.\tlv62130rgt_5.normal\(chips)',
+ ROOM='1.8V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'TPS54620_VQFN_3_5_TPS54620':
+ ROOM='5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS911854@SCH.TPS54620.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins911854@sch.\tps54620.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins911854@sch.\tps54620.normal\(chips)',
+ ROOM='5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'TPS54620_VQFN_3_5_TPS54620':
+ ROOM='3.3V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS923285@SCH.TPS54620.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins923285@sch.\tps54620.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins923285@sch.\tps54620.normal\(chips)',
+ ROOM='3.3V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'TLV62130RGT_5_TLV62130RGT_TLV62':
+ ROOM='VADJ';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS924448@SCH.TLV62130RGT_5.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins924448@sch.\tlv62130rgt_5.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins924448@sch.\tlv62130rgt_5.normal\(chips)',
+ ROOM='VADJ',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'TPS54620_VQFN_3_5_TPS54620':
+ ROOM='1.5V';
+
+SECTION_NUMBER 1
+ '@325T_MINIUM_SYSTEM.SCHEMATIC(SCH_1):INS931835@SCH.TPS54620.NORMAL(CHIPS)':
+ C_PATH='@\325t_minium_system\.schematic(sch_1):ins931835@sch.\tps54620.normal\(chips)',
+ P_PATH='@\325t_minium_system\.schematic(sch_1):page3_ins931835@sch.\tps54620.normal\(chips)',
+ ROOM='1.5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

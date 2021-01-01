@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sfp_shield.dra                                )
+(    Software Version : 17.2S053                                      )
+(    Date/Time        : Wed Nov 20 19:44:03 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/allegro_path
+    Name      = sfp_shield.psm
+    User      = hagzg
+    Machine   = DESKTOP-G1JLOI9
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,13 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "DRC ERROR CLASS/SIG2"
+color -vis "ETCH/SIG2"
+color -vis "PIN/SIG2"
+color -vis "VIA CLASS/SIG2"
+color -vis "ANTI ETCH/SIG2"
+color -vis "BOUNDARY/SIG2"
+color -vis "PLAN/SIG2"
+color -vis "CAVITY/SIG2"

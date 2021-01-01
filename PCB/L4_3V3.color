@@ -1,0 +1,13 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "DRC ERROR CLASS/3V3"
+color -vis "ETCH/3V3"
+color -vis "PIN/3V3"
+color -vis "VIA CLASS/3V3"
+color -vis "ANTI ETCH/3V3"
+color -vis "BOUNDARY/3V3"
+color -vis "PLAN/3V3"
+color -vis "CAVITY/3V3"

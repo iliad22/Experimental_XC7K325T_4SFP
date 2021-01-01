@@ -1,0 +1,12 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "BOARD GEOMETRY/SILKSCREEN_TOP"
+color -vis "COMPONENT VALUE/SILKSCREEN_TOP"
+color -vis "DEVICE TYPE/SILKSCREEN_TOP"
+color -vis "PACKAGE GEOMETRY/SILKSCREEN_TOP"
+color -vis "REF DES/SILKSCREEN_TOP"
+color -vis "TOLERANCE/SILKSCREEN_TOP"
+color -vis "USER PART NUMBER/SILKSCREEN_TOP"

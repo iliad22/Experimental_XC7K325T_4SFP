@@ -1,0 +1,8 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "DRC ERROR CLASS/PASTEMASK_BOTTOM"
+color -vis "PIN/PASTEMASK_BOTTOM"
+color -vis "VIA CLASS/PASTEMASK_BOTTOM"
